@@ -5,7 +5,7 @@ import java.awt.Font;
 import java.awt.Color;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-public class Task_3 {
+public class ScientificCalculator {
 
 	
 	    private JFrame frame;
