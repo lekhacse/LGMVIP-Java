@@ -1,6 +1,6 @@
 package lets_grow_more;
 import java.util.*;
-public class Task_2
+public class TicTacToe
 {
 		    static String[] board;
 
