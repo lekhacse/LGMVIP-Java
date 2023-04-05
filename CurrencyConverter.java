@@ -1,7 +1,7 @@
 package lets_grow_more;
 
 import java.util.*;
-public class Task1
+public class CurrencyConverter 
 {
 
 	public static void main(String[] args) 
